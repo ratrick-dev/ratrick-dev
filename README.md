@@ -16,19 +16,19 @@ As I complete my master's degree, I am seeking job opportunities where I can app
 
 ## 🎓 Education
 
-- **[Professional Course in Computer Systems Management and Programming]** from [Didáxis Riba D'Ave] - [2015 - 2018]
-- **[BSc Degree in Computer Engineering]** from [Instituto Politéncnico de Bragança] & [Lublin University of Technology]- [2018 - 2022]
-- **[MSc Degree in Informatics Engineering]** from [Instituto Politéncnico de Bragança] - [2022 - TBD]
+- **Professional Course in Computer Systems Management and Programming** from Didáxis Riba D'Ave - [2015 - 2018]
+- **[BSc Degree in Computer Engineering** from Instituto Politéncnico de Bragança & Lublin University of Technology- [2018 - 2022]
+- **MSc Degree in Informatics Engineering** from Instituto Politéncnico de Bragança - [2022 - TBD]
 
 ## 👨‍💻 Work Experience
 
-- **[Intern]** at [Swonkie] - [2017 - 2018]
+- **[Intern]** @ Swonkie - [2017 - 2018]
 
 ## 🏅 Achievements
 
-- Merit Diploma for the 1st place in the Ideas Competition, organized by Câmara Municipal of V.N. Famalicão.
-- Merit Diploma for resilience, dedication and effort and for the Best Team Award at the Ideas Fair, organized by Forave.
-- Merit Diploma for resilience and effort in the Ilídio Pinho Prize project.
+- **Merit Diploma for the 1st place** in the Ideas Competition, organized by Câmara Municipal of V.N. Famalicão.
+- **Merit Diploma for resilience, dedication and effort and for the Best Team Award** at the Ideas Fair, organized by Forave.
+- **Merit Diploma for resilience and effort** in the Ilídio Pinho Prize project.
 
 <!--## 📚 Certifications
 
@@ -44,6 +44,7 @@ As I complete my master's degree, I am seeking job opportunities where I can app
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 
 <!-- Add more as per your skill set -->
 
