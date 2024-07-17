@@ -98,5 +98,7 @@ Check out my portfolio [here](https://yourportfolio.com).-->
 
 ## 💬 Let's Chat
 
-![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
-![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
+![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord) - _ratrick_
+
+
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack) - ratrick
