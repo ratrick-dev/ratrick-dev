@@ -48,7 +48,7 @@ As I complete my master's degree, I am seeking job opportunities where I can app
 
 <!-- Add more as per your skill set -->
 
-
+<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratrick-dev&show_icons=true&theme=radical)
@@ -57,7 +57,7 @@ As I complete my master's degree, I am seeking job opportunities where I can app
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ratrick-dev&theme=radical)
 
-<!--## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ratrick-dev&theme=radical)-->
 
