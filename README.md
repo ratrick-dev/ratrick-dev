@@ -30,16 +30,6 @@ As I complete my master's degree, I am seeking job opportunities where I can app
 - Merit Diploma for resilience, dedication and effort and for the Best Team Award at the Ideas Fair, organized by Forave.
 - Merit Diploma for resilience and effort in the Ilídio Pinho Prize project.
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/rtkricardonunes/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://instagram.com/rtkricardonunes)
-
-## 💬 Let's Chat
-
-![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
-![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
-
 <!--## 📚 Certifications
 
 - [Certification Name](https://linktocertification.com)
@@ -99,3 +89,13 @@ Description: Brief description of the project.
 ## 💼 Portfolio
 
 Check out my portfolio [here](https://yourportfolio.com).-->
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/rtkricardonunes/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://instagram.com/rtkricardonunes)
+
+## 💬 Let's Chat
+
+![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
