@@ -14,6 +14,38 @@ I hold a BSc in Computer Engineering, which provided me with a solid base in bot
 
 As I complete my master's degree, I am seeking job opportunities where I can apply my knowledge, contribute to innovative projects, and continue growing professionally.
 
+## 🎓 Education
+
+- **[Professional Course in Computer Systems Management and Programming]** from [Didáxis Riba D'Ave] - [2015 - 2018]
+- **[BSc Degree in Computer Engineering]** from [Instituto Politéncnico de Bragança] & [Lublin University of Technology]- [2018 - 2022]
+- **[MSc Degree in Informatics Engineering]** from [Instituto Politéncnico de Bragança] - [2022 - TBD]
+
+## 👨‍💻 Work Experience
+
+- **[Intern]** at [Swonkie] - [2017 - 2018]
+
+## 🏅 Achievements
+
+- Merit Diploma for the 1st place in the Ideas Competition, organized by Câmara Municipal of V.N. Famalicão.
+- Merit Diploma for resilience, dedication and effort and for the Best Team Award at the Ideas Fair, organized by Forave.
+- Merit Diploma for resilience and effort in the Ilídio Pinho Prize project.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/rtkricardonunes/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://instagram.com/rtkricardonunes)
+
+## 💬 Let's Chat
+
+![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
+
+<!--## 📚 Certifications
+
+- [Certification Name](https://linktocertification.com)
+- [Certification Name](https://linktocertification.com)
+-->
+
 ## 🚀 Skills
 
 **Languages and Tools:**
@@ -34,13 +66,14 @@ As I complete my master's degree, I am seeking job opportunities where I can app
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ratrick-dev&theme=radical)
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ratrick-dev&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ratrick-dev&theme=radical)-->
 
 ## 📊 Language Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratrick-dev&layout=compact&theme=radical)
+
 <!--
 ## 🛠️ Projects
 
@@ -57,37 +90,6 @@ Description: Brief description of the project.
 
 <!-- Add more projects as needed -->
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/rtkricardonunes/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://instagram.com/rtkricardonunes)
-
-## 💬 Let's Chat
-
-![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
-![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
-
-<!--## 📚 Certifications
-
-- [Certification Name](https://linktocertification.com)
-- [Certification Name](https://linktocertification.com)
--->
-
-## 🎓 Education
-
-- **[Professional Course in Computer Systems Management and Programming]** from [Didáxis Riba D'Ave] - [2015 - 2018]
-- **[BSc Degree in Computer Engineering]** from [Instituto Politéncnico de Bragança] & [Lublin University of Technology]- [2018 - 2022]
-- **[MSc Degree in Informatics Engineering]** from [Instituto Politéncnico de Bragança] - [2022 - TBD]
-
-## 👨‍💻 Work Experience
-
-- **[Intern]** at [Swonkie] - [2017 - 2018]
-
-## 🏅 Achievements
-
-- Merit Diploma for the 1st place in the Ideas Competition, organized by Câmara Municipal of V.N. Famalicão.
-- Merit Diploma for resilience, dedication and effort and for the Best Team Award at the Ideas Fair, organized by Forave.
-- Merit Diploma for resilience and effort in the Ilídio Pinho Prize project.
 
 <!--## 📜 Licenses & Certifications
 
