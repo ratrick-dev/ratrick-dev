@@ -1,4 +1,4 @@
-![Your Banner Image]([https://yourimageurl.com/banner.png](https://media.licdn.com/dms/image/D4D16AQFJLer7__lPiw/profile-displaybackgroundimage-shrink_350_1400/0/1719418753250?e=1726704000&v=beta&t=LFWvWlP263qg_fMF22NGXNpQhiOxGU-u98KTxX-QNqk)) <!-- You can create a custom banner using tools like Canva -->
+![Your Banner Image](https://github.com/ratrick-dev/ratrick-dev/blob/main/fundo3%20linkedin.jpg) <!-- You can create a custom banner using tools like Canva -->
 
 ## About Me
 
